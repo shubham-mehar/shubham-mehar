@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @shubham-mehar
+-# 👋 Hi, I’m @shubham-mehar
 - 👀 I’m interested in Machine Learning 
+- # Technical Skills
