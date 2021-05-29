@@ -14,8 +14,9 @@ I am a second year undergraduate student at Ujjain Engineering College, Ujjain.
 
 
 ### Contact
-
-
+<a href="https://www.linkedin.com/in/shubham-mehar-b7122a1b1">
+  <img align="left" width="27px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
 <a href="mailto:shubhammehar101@gmail.com">
   <img align="left" alt="Shubham Mehar| Gmail" width="25px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
