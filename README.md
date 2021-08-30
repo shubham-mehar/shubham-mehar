@@ -19,12 +19,15 @@ I am a second year undergraduate student at Ujjain Engineering College, Ujjain.
 
 
 ### Contact
-<a href="https://www.linkedin.com/in/shubham-mehar-b7122a1b1">
-  <img align="left" width="27px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<a href="https://www.linkedin.com/in/shubham-mehar">
+  <img align="left" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="mailto:shubhammehar101@gmail.com">
-  <img align="left" alt="Shubham Mehar| Gmail" width="25px" src="https://img.icons8.com/color/48/000000/gmail.png" />
+  <img align="left" alt="Shubham Mehar| Gmail" width="40px" src="https://img.icons8.com/color/48/000000/gmail.png" />
 </a>
 <a href="https://www.quora.com/profile/Shubham-Mehar-4">
-  <img align="left" alt="Shubham Mehar| Quora" width="25px" src="https://www.iconpacks.net/icons/2/free-quora-logo-icon-2439-thumb.png" />
+  <img align="left" alt="Shubham Mehar| Quora" width="40px" src="https://www.iconpacks.net/icons/2/free-quora-logo-icon-2439-thumb.png" />
 </a>
+<!-- <a href="mailto:shubhammehar101@gmail.com">
+  <img align="left" alt="Shubham Mehar| Gmail" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=fkat&logo=linkedin&logoColor=white" />
+</a> -->
