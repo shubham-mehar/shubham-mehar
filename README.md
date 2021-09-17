@@ -14,8 +14,15 @@ I am a second year undergraduate student at Ujjain Engineering College, Ujjain.
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
 <br />
 
-
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar" width="350"></a>
+</p>
+<p align='center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-mehar" width="350"></a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mehar" width="350"></a>
+</p>
 
 
 ### Contact
