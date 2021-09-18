@@ -15,13 +15,13 @@ I am a second year undergraduate student at Ujjain Engineering College, Ujjain.
 <br />
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar&show_icons=true&theme=tokyonight" width="400"></a>
 </p>
 <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-mehar" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-mehar&show_icons=true&theme=tokyonight" width="400"></a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mehar" width="350"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mehar&show_icons=true&theme=tokyonight" width="400"></a>
 </p>
 
 
