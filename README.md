@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shubham Mehar
 ## About me
 
-I am a second year undergraduate student at Ujjain Engineering College, Ujjain.
+I am a pre-final year undergraduate student at Ujjain Engineering College, Ujjain.
 
 👀 I’m interested in Machine Learning and AI. 
 
