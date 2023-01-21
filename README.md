@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Shubham Mehar
 ## About me
 
-<p align='center'>
+<!-- <p align='center'>
 <img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1" height=250px width="800px" /> 
-</p>
+</p> -->
   
 I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
 
