@@ -1,9 +1,13 @@
 # 👋 Hi, I’m Shubham Mehar
 ## About me
 
-I am a pre-final year undergraduate student at Ujjain Engineering College, Ujjain.
+<p align='center'>
+<img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1" height=250px width="800px" /> 
+</p>
+  
+I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
 
-👀 I’m interested in Machine Learning and AI. 
+👀 I’m a passionate web developer and machine learning enthusiast. 
 
 # Technical Skills
 
@@ -38,6 +42,7 @@ I am a pre-final year undergraduate student at Ujjain Engineering College, Ujjai
 <!-- <a href="mailto:shubhammehar101@gmail.com">
   <img align="left" alt="Shubham Mehar| Gmail" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=fkat&logo=linkedin&logoColor=white" />
 </a> -->
+
 
 
 
