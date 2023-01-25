@@ -18,16 +18,23 @@ I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
 <br />
 
-<p align='center'>
+<table align='center'>
+  <tr>
+   
+<td><img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham Mehar" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-mehar&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham Mehar" /></td>
+  </tr>
+</table>
+
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar&show_icons=true&theme=tokyonight" width="400"></a>
 </p>
 <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-mehar&show_icons=true&theme=tokyonight" width="400"></a>
-</p>
+</p> -->
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-mehar&show_icons=true&theme=tokyonight" width="400"></a>
 </p> -->
-
 
 ### Contact
 <a href="https://www.linkedin.com/in/shubham-mehar">
