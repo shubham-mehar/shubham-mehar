@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Shubham Mehar
+<h1 align="center">Hi 👋, I'm Shubham Mehar</h1>
+<br>
+
 ## About me
 
 <!-- <p align='center'>
