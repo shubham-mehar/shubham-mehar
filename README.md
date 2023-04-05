@@ -9,7 +9,6 @@
 <!-- <p align='center'>
 <img src="https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1" height=250px width="800px" /> 
 </p> -->
-  
 👀 I’m a passionate web developer and machine learning enthusiast, who loves to create and build things. I'm always looking for new challenges and projects to work on.
 
 I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
@@ -42,7 +41,7 @@ I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
   <tr>
    
 <td><img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham Mehar" />
-
+ 
    <!-- 
   <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-mehar&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham Mehar" /></td> 
  -->
