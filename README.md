@@ -40,11 +40,17 @@ I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
 <table align='center'>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham Mehar" />
- 
-   <!-- 
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-mehar&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham Mehar" /></td> 
- -->
+<td>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbTrax&theme=bear"  width=700  alt="stats graph"/>
+
+</div>
+  </td>
+  <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham Mehar" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-mehar&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shubham Mehar" /> -->
+  </td> 
   </tr>
 </table>
 
