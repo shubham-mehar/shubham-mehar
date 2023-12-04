@@ -54,6 +54,12 @@ I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
   </tr>
 </table>
 
+<a><h2>Trophies</h2></a>
+    <a href="https://github.com/shubham-mehar/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=shubham-mehar&row=4&theme=onedark&no-frame=true"/>
+    </a>    
+    </a>
+
 <!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shubham-mehar&show_icons=true&theme=tokyonight" width="400"></a>
 </p>
