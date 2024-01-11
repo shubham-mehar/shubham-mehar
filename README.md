@@ -13,6 +13,17 @@
 
 I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
 
+<h2 align="center" dir="auto"><a id="user-content--how-to-reach-me-" class="anchor" aria-hidden="true" href="#-how-to-reach-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> How to reach me </h2>
+<div align="center" dir="auto">
+  <p dir="auto">
+    <a href="mailto:shubhammehar101@gmail.com"> 
+      <img src="https://user-images.githubusercontent.com/84305637/201382070-00f1f9ba-c37d-4b0a-9270-730e1d646b91.png" alt="gmail" width="40" height="40" style="max-width: 100%;">   
+    </a>
+    <a href="https://linkedin.com/in/shubham-mehar" rel="nofollow"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="linkedin" width="40" height="40" style="max-width: 100%;"></a>
+    
+<!-- <a href="https://twitter.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="80" height="80" style="max-width: 100%;"></a>
+<a href="https://instagram.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="80" height="80" style="max-width: 100%;"></a>-->
+  </p>
 
 <h2 align="center" dir="auto"><a id="user-content--how-to-reach-me-" class="anchor" aria-hidden="true" href="#-how-to-reach-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Technical Skills </h2>
 
@@ -95,15 +106,5 @@ I am a final-year undergraduate student at Ujjain Engineering College, Ujjain.
   <img align="left" alt="Shubham Mehar| Gmail" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=fkat&logo=linkedin&logoColor=white" />
 </a> -->
 
-<h2 align="center" dir="auto"><a id="user-content--how-to-reach-me-" class="anchor" aria-hidden="true" href="#-how-to-reach-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> How to reach me </h2>
-<div align="center" dir="auto">
-  <p dir="auto">
-    <a href="mailto:shubhammehar101@gmail.com"> 
-      <img src="https://user-images.githubusercontent.com/84305637/201382070-00f1f9ba-c37d-4b0a-9270-730e1d646b91.png" alt="gmail" width="40" height="40" style="max-width: 100%;">   
-    </a>
-    <a href="https://linkedin.com/in/shubham-mehar" rel="nofollow"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="linkedin" width="40" height="40" style="max-width: 100%;"></a>
-    
-<!-- <a href="https://twitter.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="80" height="80" style="max-width: 100%;"></a>
-<a href="https://instagram.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="80" height="80" style="max-width: 100%;"></a>-->
-  </p>
+
 </div>
